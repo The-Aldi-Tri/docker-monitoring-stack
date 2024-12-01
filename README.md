@@ -22,8 +22,8 @@ Before running the Docker Compose setup, ensure you have the following installed
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/The-Aldi-Tri/monitoring.git
-    cd monitoring
+    git clone <repository-url>
+    cd <repository-name>
     ```
 
 2. **Choose the Application You Want to View**
